@@ -1,3 +1,4 @@
+// stefan
 #include <iostream>
 #include "televizor.hpp"
 
