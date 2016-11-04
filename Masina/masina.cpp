@@ -1,3 +1,4 @@
+// stefan
 #include "masina.hpp"
 
 Masina::Masina(){
