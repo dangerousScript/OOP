@@ -1,3 +1,4 @@
+// stefan
 #ifndef MASINA_HPP_INCLUDED
 #define MASINA_HPP_INCLUDED
 
